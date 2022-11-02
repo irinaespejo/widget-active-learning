@@ -1,6 +1,7 @@
 # widget-active-learning
 Code in Dash to generate a 4D visualization of exclusion contour plots
 
+Requeriments `(.env) $ pip install dash dash_bootstrap_components`
 The code in this repository generates the following widget that can be displayed on local browser by running 
 
 `$ python contours.py`
